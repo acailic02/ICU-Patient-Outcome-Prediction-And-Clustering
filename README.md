@@ -2,7 +2,7 @@
 
 ## How to run
 1. Install dependencies:
-'pip install requirements.txt'
+`pip install requirements.tx`
 
 2. Run notebooks separately
    - preprocessing isnt neccessary to run since datasets are stored
